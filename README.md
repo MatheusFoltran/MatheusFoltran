@@ -8,7 +8,7 @@ Currently, I'm focused on enhancing my skills in programming languages, cloud co
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://skillicons.dev/icons?i=java)
 ![Racket](https://img.shields.io/badge/-Racket-9F1D20?style=for-the-badge&logo=racket&logoColor=white)
 
 ## 📊 Git Hub stats
