@@ -10,7 +10,7 @@ Currently, I'm focused on enhancing my skills in programming languages, cloud co
 ![Java](https://skillicons.dev/icons?i=java)
 ![C](https://skillicons.dev/icons?i=c)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
-![NetBeans](https://skillicons.dev/icons?i=netbeans)
+![NetBeans](https://upload.wikimedia.org/wikipedia/commons/4/4f/Apache_NetBeans_Logo_2020.svg)
 ![Racket](https://img.shields.io/badge/-Racket-9F1D20?style=for-the-badge&logo=racket&logoColor=white)
 
 ## 📊 Git Hub stats
