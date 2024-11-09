@@ -6,10 +6,11 @@ Currently, I'm focused on enhancing my skills in programming languages, cloud co
 
 ## 💻 Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://skillicons.dev/icons?i=python)
 ![Java](https://skillicons.dev/icons?i=java)
-![Racket](https://img.shields.io/badge/-Racket-9F1D20?style=for-the-badge&logo=racket&logoColor=white)
+![C](https://skillicons.dev/icons?i=c)
+![Racket](https://skillicons.dev/icons?i=racket)
+![VSCode](https://skillicons.dev/icons?i=vscode)
 
 ## 📊 Git Hub stats
 
