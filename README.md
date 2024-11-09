@@ -9,8 +9,9 @@ Currently, I'm focused on enhancing my skills in programming languages, cloud co
 ![Python](https://skillicons.dev/icons?i=python)
 ![Java](https://skillicons.dev/icons?i=java)
 ![C](https://skillicons.dev/icons?i=c)
-![Racket](https://skillicons.dev/icons?i=racket)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
+![NetBeans](https://skillicons.dev/icons?i=netbeans)
+![Racket](https://img.shields.io/badge/-Racket-9F1D20?style=for-the-badge&logo=racket&logoColor=white)
 
 ## 📊 Git Hub stats
 
